@@ -1,6 +1,8 @@
 # dark_market_ml
 
-Project Contributors include: Shirley Li, Jingxian Li, Michael Schulze, & Mundy Reimer
+Use machine learning regression models to predict the btc price of dark market cocaine.
+
+Project Contributors include: [Shirley Li](https://www.linkedin.com/in/shirleylixueying/en), [Jingxian Li](https://www.linkedin.com/in/jingxian-li-usf), [Michael Schulze](https://www.linkedin.com/in/michael-a-schulze), & [Mundy Reimer](https://www.linkedin.com/in/mundyreimer)
 
 ---
 Public Data Set found here: https://www.kaggle.com/everling/cocaine-listings
