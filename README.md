@@ -2,7 +2,7 @@
 
 Use machine learning regression models to predict the btc price of dark market cocaine.
 
-Project Contributors include: [Shirley Li](https://www.linkedin.com/in/shirleylixueying/en), [Jingxian Li](https://www.linkedin.com/in/jingxian-li-usf), [Michael Schulze](https://www.linkedin.com/in/michael-a-schulze), & [Mundy Reimer](https://www.linkedin.com/in/mundyreimer)
+Project contributors include: [Shirley Li](https://www.linkedin.com/in/shirleylixueying/en), [Jingxian Li](https://www.linkedin.com/in/jingxian-li-usf), [Michael Schulze](https://www.linkedin.com/in/michael-a-schulze), & [Mundy Reimer](https://www.linkedin.com/in/mundyreimer)
 
 Our presentation slides can be [found here](https://docs.google.com/presentation/d/12XrkKcPugb9-nEgc47eu7e4JbOcp-BvwI73NWODtj_U/edit?usp=sharing).
 
