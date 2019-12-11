@@ -27,7 +27,7 @@ For further details on the creation of this dataset and what it contains, see th
 ---
 Files:
 
-Final_code: contains all our code from modeling to visualization.
+Final_code: Contains all our code from modeling to visualization.
 
 dream_market_cocaine_listings: Origianl csv we downloaded from Kaggle.
 
