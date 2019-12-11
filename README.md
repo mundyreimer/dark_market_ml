@@ -24,8 +24,11 @@ shipping dummy variables (true/false columns)
 
 For further details on the creation of this dataset and what it contains, see the blog post here: https://medium.com/thought-skipper/dark-market-regression-calculating-the-price-distribution-of-cocaine-from-market-listings-10aeff1e89e0
 
-
+---
 Files:
-\nFinal_code: contains all our code from modeling to visualization.
-\nmeow data: Origianl csv we downloaded from Kaggle.
-\nfixed meow data: Dataset we used after cleaning the origianl kaggle csv.
+
+Final_code: contains all our code from modeling to visualization.
+
+meow data: Origianl csv we downloaded from Kaggle.
+
+fixed meow data: Dataset we used after cleaning the origianl kaggle csv.
