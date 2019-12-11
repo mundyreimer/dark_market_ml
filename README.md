@@ -1,6 +1,6 @@
 # dark_market_ml
 
-Use various machine learning models to predict the btc price of dark market cocaine.
+Use various machine learning models to predict the btc price of dark market cocaine.  Our Project_code.ipynb contains the complete workflow of our process: Data Cleaning, Exploratory Data Analysis, Feature Engineering, Modeling, and Evaluation.  
 
 Project contributors include: [Shirley Li](https://www.linkedin.com/in/shirleylixueying/en), [Jingxian Li](https://www.linkedin.com/in/jingxian-li-usf), [Michael Schulze](https://www.linkedin.com/in/michael-a-schulze), & [Mundy Reimer](https://www.linkedin.com/in/mundyreimer)
 
