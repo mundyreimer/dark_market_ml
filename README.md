@@ -26,6 +26,6 @@ For further details on the creation of this dataset and what it contains, see th
 
 
 Files:
-Final_code: contains all our code from modeling to visualization.
-meow data: Origianl csv we downloaded from Kaggle.
-fixed meow data: Dataset we used after cleaning the origianl kaggle csv.
+\nFinal_code: contains all our code from modeling to visualization.
+\nmeow data: Origianl csv we downloaded from Kaggle.
+\nfixed meow data: Dataset we used after cleaning the origianl kaggle csv.
