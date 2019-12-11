@@ -1,10 +1,10 @@
 # dark_market_ml
 
-Use machine learning regression models to predict the btc price of dark market cocaine.
+Use various machine learning models to predict the btc price of dark market cocaine.
 
 Project contributors include: [Shirley Li](https://www.linkedin.com/in/shirleylixueying/en), [Jingxian Li](https://www.linkedin.com/in/jingxian-li-usf), [Michael Schulze](https://www.linkedin.com/in/michael-a-schulze), & [Mundy Reimer](https://www.linkedin.com/in/mundyreimer)
 
-Our presentation slides can be [found here](https://docs.google.com/presentation/d/12XrkKcPugb9-nEgc47eu7e4JbOcp-BvwI73NWODtj_U/edit?usp=sharing).
+Our presentation slides can be [found here](https://docs.google.com/presentation/d/1adchsYpdnYrKG_umUR0ZynxtBRWPtUcGAgySLA2iRbA/edit?usp=sharing).
 
 ---
 Public Data Set found here: https://www.kaggle.com/everling/cocaine-listings
@@ -29,6 +29,6 @@ Files:
 
 Final_code: Contains all our code from modeling to visualization.
 
-dream_market_cocaine_listings: Origianl csv we downloaded from Kaggle.
+dream_market_cocaine_listings: Original CSV file we downloaded from Kaggle.
 
-fixed_cocaine_listings: Dataset we used after cleaning the origianl kaggle csv.
+fixed_cocaine_listings: Dataset we used after cleaning the original Kaggle CSV.
