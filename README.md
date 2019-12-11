@@ -29,6 +29,6 @@ Files:
 
 Final_code: contains all our code from modeling to visualization.
 
-meow data: Origianl csv we downloaded from Kaggle.
+dream_market_cocaine_listings: Origianl csv we downloaded from Kaggle.
 
-fixed meow data: Dataset we used after cleaning the origianl kaggle csv.
+fixed_cocaine_listings: Dataset we used after cleaning the origianl kaggle csv.
